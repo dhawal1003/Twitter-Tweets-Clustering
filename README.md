@@ -1,4 +1,4 @@
-# Twitter-Tweets-Clustering
+﻿# Twitter-Tweets-Clustering
 
 - Twitter provides a service for posting short messages. In practice, many of the tweets are very similar to each other and can be clustered together. By clustering similar tweets together, we can generate a more concise and organized representation of the raw tweets, which will be very useful for many  Twitter-based applications (e.g., truth discovery, trend analysis, search ranking, etc.)
 
@@ -18,4 +18,4 @@ Tweet A: the long march
 
 Tweet B: ides of march
 
-|A  B | = 1 and |A U B | = 5, therefore the distance is 1 – (1/5)
+|A intersection B | = 1 and |A U B | = 5, therefore the distance is 1 – (1/5)
